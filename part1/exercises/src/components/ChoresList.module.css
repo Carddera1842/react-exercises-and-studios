@@ -1,5 +1,9 @@
 .choresText {
-   color: black;
+   color: rgb(0, 0, 0);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: x-large;
+   text-underline-position: below;
+   font-style: italic;
 }
 
 .choresHeading {
