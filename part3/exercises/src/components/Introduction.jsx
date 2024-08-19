@@ -1,12 +1,12 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
-         <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
-         </ol>
-      </div>
+            <h2>3 Fun Facts About this Hobby</h2>
+            <ol>
+                <li>Crochet is a cheap hobby</li>
+                <li>Crochet comes from "croche" middle French word for hook</li>
+                <li>Crochet can reduce the risk of Alzheimer by 30% - 50%</li>
+            </ol>
+        </div>
    );
 }
